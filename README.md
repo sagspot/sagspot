@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Oliver Sagala "sagspot"</h1>
-<h3 align="center">A Software Developer at Expendo </h3>
+<h1 align="center">Hi 👋, I'm Oliver Sagala</h1>
+<h3 align="center">A passionate fullstack software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagspot&label=Profile%20views&color=0e75b6&style=flat" alt="sagspot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagspot" alt="sagspot" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagspot&theme=monokai" alt="sagspot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sagspot" target="blank"><img src="https://img.shields.io/twitter/follow/sagspot?logo=twitter&style=for-the-badge" alt="sagspot" /></a> </p>
 
-- 🔭 I’m currently working at [Expendo](https://expendo.co)
+- 🔭 I’m currently working on **fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sagspot](https://github.com/sagspot)
+- 🌱 I’m currently learning **AWS Cloud Services**
 
-- 💬 Ask me about [cvPoa](https://cvpoa.co.ke)
+- 👯 I’m looking to collaborate on **fullstack projects**
 
-- 📫 How to reach me [Email](mailto:hello@sagspot.co.ke)
+- 🤝 I’m looking for help with **AWS Cloud Services**
+
+- 👨‍💻 All of my projects are available at [sagspot.co](sagspot.co)
+
+- 💬 Ask me about **Typescript, NextJs and ChakraUI**
+
+- 📫 How to reach me [hello@sagspot.co.ke](mailto:hello@sagspot.co.ke)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sagspot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagspot" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagspot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagspot" height="30" width="40" /></a>
+<a href="https://fb.com/sagspott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagspott" height="30" width="40" /></a>
+<a href="https://instagram.com/sagspot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagspot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,3 +63,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagspot&show_icons=true&locale=en" alt="sagspot" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagspot&show_icons=true&locale=en&layout=compact" alt="sagspot" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagspot&" alt="sagspot" /></p>
