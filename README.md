@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AWS Cloud Services**
 
-- 👨‍💻 All of my projects are available at [sagspot.co](https://sagspot.co)
+- 👨‍💻 All of my projects are available at [sagspot.co.ke](https://sagspot.co.ke)
 
 - 💬 Ask me about **Typescript, NextJs and ChakraUI**
 
