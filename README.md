@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [sagspot.co.ke](https://sagspot.co.ke)
 
-- 💬 Ask me about **Typescript, NextJs and ChakraUI**
+- 💬 Ask me about **Typescript, NextJs, NestJs, Tailwindcss, and Shadcn**
 
 - 📫 How to reach me [hello@sagspot.co.ke](mailto:hello@sagspot.co.ke)
 
